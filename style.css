@@ -1,0 +1,28 @@
+h2.a {
+  visibility: visible;
+}
+
+h2.b {
+  visibility: hidden;
+}
+.c {
+    opacity:1.0;
+}
+.d {
+    opacity:0.65;
+}
+.f {
+    opacity:0.2;
+}
+span{
+    color:purple;
+}
+.none{
+    display:none;
+}
+.inline{
+    display:inline;
+}
+.block{
+    display:block;
+}
